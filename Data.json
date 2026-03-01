@@ -1,0 +1,12 @@
+[
+    {"name": "Rahul", "Rating": "5  ", "Feedback": "Bahut accha", "Age": "25"},
+    {"name": "Priya", "Rating": "3.5", "Feedback": "Theek hai", "Age": "30"},
+    {"name": "Amit", "Rating": "Four", "Feedback": "Good service", "Age": "22"},
+    {"name": "Sneha", "Rating": "2", "Feedback": "Not satisfied"},
+    {"name": "Amit", "Rating": "5 ", "Feedback": "Excellent", "Age": "35"},
+    {"name": "Kavita", "Rating": "one", "Feedback": "Very bad", "Age": "40"},
+    {"name": "Vikas", "Rating": "4 ", "Feedback": "Nice experience", "Age": "27"},
+    {"name": "Pooja", "Rating": "3", "Feedback": "Average", "Age": "32"},
+    {"name": "Suresh", "Rating": "5.2", "Feedback": "Loved it"},
+    {"name": "Kavita", "Rating": "Two", "Feedback": "Disappointed", "Age": "29"}
+]
